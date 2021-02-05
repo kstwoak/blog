@@ -1,9 +1,9 @@
 package router
 
 import (
-	"blog/conf"
-	"blog/internal/jwt"
-	"blog/model"
+	"blog-panda/conf"
+	"blog-panda/internal/jwt"
+	"blog-panda/model"
 	"crypto/md5"
 	"encoding/hex"
 	"fmt"

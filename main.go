@@ -1,12 +1,13 @@
 package main
 
 import (
-	"blog/conf"
-	"blog/model"
-	"blog/router"
 	"os"
 	"os/signal"
 	"syscall"
+
+	"blog-panda/conf"
+	"blog-panda/model"
+	"blog-panda/router"
 
 	"github.com/zxysilent/logs"
 )

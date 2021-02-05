@@ -1,7 +1,7 @@
 package model
 
 import (
-	"blog/conf"
+	"blog-panda/conf"
 	"log"
 	"strings"
 

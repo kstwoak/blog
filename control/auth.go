@@ -8,11 +8,11 @@ import (
 	"strconv"
 	"time"
 
-	"blog/conf"
-	"blog/internal/jwt"
-	"blog/internal/rate"
-	"blog/internal/vcode"
-	"blog/model"
+	"blog-panda/conf"
+	"blog-panda/internal/jwt"
+	"blog-panda/internal/rate"
+	"blog-panda/internal/vcode"
+	"blog-panda/model"
 
 	"github.com/labstack/echo/v4"
 

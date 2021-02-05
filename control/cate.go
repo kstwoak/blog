@@ -1,10 +1,10 @@
 package control
 
 import (
-	"blog/model"
+	"blog-panda/model"
 	"strconv"
 
-	"github.com/labstack/echo/v4"
+	echo "github.com/labstack/echo/v4"
 	"github.com/zxysilent/utils"
 )
 

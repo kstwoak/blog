@@ -1,8 +1,8 @@
 package router
 
 import (
-	"blog/conf"
-	"blog/control"
+	"blog-panda/conf"
+	"blog-panda/control"
 	"log"
 
 	"github.com/labstack/echo/v4"

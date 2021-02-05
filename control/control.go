@@ -1,7 +1,7 @@
 package control
 
 import (
-	"blog/model"
+	"blog-panda/model"
 	"io"
 	"os"
 	"path/filepath"

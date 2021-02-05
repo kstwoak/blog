@@ -1,7 +1,7 @@
 package control
 
 import (
-	"blog/model"
+	"blog-panda/model"
 
 	"github.com/labstack/echo/v4"
 	"github.com/zxysilent/utils"
